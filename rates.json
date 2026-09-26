@@ -1,0 +1,374 @@
+{
+  "rates": {
+    "sampath": {
+      "exchange": {
+        "USD": {
+          "buy": 326.0,
+          "sell": 334.0
+        },
+        "GBP": {
+          "buy": 429.5677,
+          "sell": 442.8203
+        },
+        "EUR": {
+          "buy": 368.9383,
+          "sell": 381.9437
+        },
+        "JPY": {
+          "buy": 2.0468,
+          "sell": 2.1195
+        },
+        "AUD": {
+          "buy": 226.8953,
+          "sell": 236.1608
+        },
+        "INR": {
+          "buy": 3.3792,
+          "sell": 3.4986
+        }
+      },
+      "exchange_url": "https://www.sampath.lk/api/exchange-rates"
+    },
+    "hnb": {
+      "exchange": {
+        "AUD": {
+          "buy": 227.33,
+          "sell": 235.5713
+        },
+        "GBP": {
+          "buy": 430.13,
+          "sell": 442.0914
+        },
+        "EUR": {
+          "buy": 369.643,
+          "sell": 380.7603
+        },
+        "INR": {
+          "buy": 3.2788,
+          "sell": 3.6417
+        },
+        "JPY": {
+          "buy": 2.0563,
+          "sell": 2.1134
+        },
+        "USD": {
+          "buy": 326.5,
+          "sell": 333.75
+        }
+      },
+      "exchange_url": "https://venus.hnb.lk/api/get_exchange_rates_contents_web"
+    },
+    "comb": {
+      "exchange": {
+        "USD": {
+          "buy": 333.5,
+          "sell": 342.5
+        },
+        "EUR": {
+          "buy": 385.56,
+          "sell": 399.39
+        },
+        "GBP": {
+          "buy": 446.11,
+          "sell": 461.57
+        },
+        "JPY": {
+          "buy": 2.0898,
+          "sell": 2.1597
+        },
+        "AUD": {
+          "buy": 234.8,
+          "sell": 247.99
+        },
+        "INR": {
+          "buy": 3.06,
+          "sell": 3.67
+        }
+      },
+      "exchange_url": "https://www.combank.lk/rates-tariff"
+    },
+    "boc": {
+      "exchange": {
+        "AUD": {
+          "buy": 229.9669,
+          "sell": 243.4633
+        },
+        "EUR": {
+          "buy": 377.789,
+          "sell": 391.706
+        },
+        "GBP": {
+          "buy": 438.6514,
+          "sell": 452.697
+        },
+        "INR": {
+          "buy": 3.1103,
+          "sell": 3.7153
+        },
+        "JPY": {
+          "buy": 2.0469,
+          "sell": 2.1303
+        },
+        "USD": {
+          "buy": 327.5,
+          "sell": 336.5
+        }
+      },
+      "exchange_url": "https://www.boc.lk/rates-tariff"
+    },
+    "peoples": {
+      "exchange": {
+        "USD": {
+          "buy": 326.5611,
+          "sell": 334.1897
+        },
+        "JPY": {
+          "buy": 2.0615,
+          "sell": 2.1316
+        },
+        "GBP": {
+          "buy": 431.1109,
+          "sell": 443.3564
+        },
+        "EUR": {
+          "buy": 370.2606,
+          "sell": 381.9377
+        },
+        "AUD": {
+          "buy": 227.4029,
+          "sell": 237.0013
+        },
+        "INR": {
+          "buy": 3.3631,
+          "sell": 3.4948
+        }
+      },
+      "exchange_url": "https://www.peoplesbank.lk/exchange-rates/"
+    },
+    "seylan": {
+      "exchange": {
+        "USD": {
+          "buy": 326.7,
+          "sell": 333.7
+        },
+        "GBP": {
+          "buy": 427.3197,
+          "sell": 445.6303
+        },
+        "EUR": {
+          "buy": 367.7433,
+          "sell": 383.5481
+        },
+        "JPY": {
+          "buy": 2.035,
+          "sell": 2.1326
+        },
+        "AUD": {
+          "buy": 225.1373,
+          "sell": 238.4927
+        },
+        "INR": {
+          "buy": 3.0994,
+          "sell": 3.8304
+        }
+      },
+      "exchange_url": "https://www.seylan.lk/exchange-rates"
+    },
+    "dfcc": {
+      "exchange": {
+        "USD": {
+          "buy": 324.25,
+          "sell": 324.25
+        },
+        "GBP": {
+          "buy": 425.36,
+          "sell": 425.86
+        },
+        "JPY": {
+          "buy": 2.0145,
+          "sell": 2.0245
+        },
+        "AUD": {
+          "buy": 223.07,
+          "sell": 223.57
+        },
+        "EUR": {
+          "buy": 364.51,
+          "sell": 365.01
+        },
+        "INR": {
+          "buy": 3.04,
+          "sell": 3.04
+        }
+      },
+      "exchange_url": "https://www.dfcc.lk/rates-and-tariff/exchange-rates"
+    },
+    "ndb": {
+      "exchange": {
+        "AUD": {
+          "buy": 225.03,
+          "sell": 237.95
+        },
+        "EUR": {
+          "buy": 368.45,
+          "sell": 381.99
+        },
+        "INR": {
+          "buy": 3.39,
+          "sell": 3.5
+        },
+        "JPY": {
+          "buy": 2.045,
+          "sell": 2.1216
+        },
+        "GBP": {
+          "buy": 428.44,
+          "sell": 443.63
+        },
+        "USD": {
+          "buy": 325.5,
+          "sell": 334.5
+        }
+      },
+      "exchange_url": "https://www.ndbbank.com/rates/exchange-rates"
+    },
+    "ntb": {
+      "exchange": {
+        "USD": {
+          "buy": 325.51,
+          "sell": 336.49
+        },
+        "GBP": {
+          "buy": 435.69,
+          "sell": 453.31
+        },
+        "EUR": {
+          "buy": 376.16,
+          "sell": 392.62
+        },
+        "JPY": {
+          "buy": 2.04,
+          "sell": 2.13
+        },
+        "AUD": {
+          "buy": 229.74,
+          "sell": 243.06
+        },
+        "INR": {
+          "buy": 3.31,
+          "sell": 3.57
+        }
+      },
+      "exchange_url": "https://www.nationstrust.com/exchange-rates"
+    },
+    "pabc": {
+      "exchange": {
+        "USD": {
+          "buy": 326.0,
+          "sell": 334.0
+        },
+        "GBP": {
+          "buy": 430.52,
+          "sell": 441.4478
+        },
+        "AUD": {
+          "buy": 225.2,
+          "sell": 237.4406
+        },
+        "EUR": {
+          "buy": 369.52,
+          "sell": 380.9604
+        },
+        "JPY": {
+          "buy": 2.03,
+          "sell": 2.1198
+        },
+        "INR": {
+          "buy": 2.83,
+          "sell": 3.5356
+        }
+      },
+      "exchange_url": "https://www.pabcbank.com/treasury/exchange-rate/"
+    },
+    "stanchart": {
+      "exchange": {
+        "AUD": {
+          "buy": 228.88,
+          "sell": 242.79
+        },
+        "EUR": {
+          "buy": 375.07,
+          "sell": 397.87
+        },
+        "GBP": {
+          "buy": 438.2,
+          "sell": 464.84
+        },
+        "INR": {
+          "buy": 3.4161,
+          "sell": 3.6245
+        },
+        "JPY": {
+          "buy": 2.0259,
+          "sell": 2.1492
+        },
+        "USD": {
+          "buy": 329.5,
+          "sell": 340.5
+        }
+      },
+      "exchange_url": "https://av.sc.com/lk/content/docs/lk-exchange-rates.pdf"
+    },
+    "nsb": {
+      "exchange": {
+        "USD": {
+          "buy": 326.4,
+          "sell": 334.4
+        },
+        "EUR": {
+          "buy": 369.99,
+          "sell": 382.89
+        },
+        "GBP": {
+          "buy": 430.0,
+          "sell": 444.7
+        },
+        "AUD": {
+          "buy": 227.12,
+          "sell": 235.82
+        }
+      },
+      "exchange_url": "https://www.nsb.lk/rates-tarriffs/nsb-exchange-rates/"
+    },
+    "union": {
+      "exchange": {
+        "USD": {
+          "buy": 326.0,
+          "sell": 334.0
+        },
+        "EUR": {
+          "buy": 370.1404,
+          "sell": 381.929
+        },
+        "GBP": {
+          "buy": 427.1904,
+          "sell": 442.049
+        },
+        "INR": {
+          "buy": 3.3863,
+          "sell": 3.4916
+        },
+        "AUD": {
+          "buy": 227.1894,
+          "sell": 235.47
+        },
+        "JPY": {
+          "buy": 2.0511,
+          "sell": 2.0511
+        }
+      },
+      "exchange_url": "https://www.unionb.com/exchange-rates/"
+    }
+  },
+  "last_updated": "2026-09-26T14:56:09.314765+00:00"
+}
